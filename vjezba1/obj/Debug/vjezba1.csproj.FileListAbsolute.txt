@@ -1,0 +1,7 @@
+D:\Vito Dumbović 2.d\programiranje\vjezba1\bin\Debug\vjezba1.exe.config
+D:\Vito Dumbović 2.d\programiranje\vjezba1\bin\Debug\vjezba1.exe
+D:\Vito Dumbović 2.d\programiranje\vjezba1\bin\Debug\vjezba1.pdb
+D:\Vito Dumbović 2.d\programiranje\vjezba1\obj\Debug\vjezba1.csproj.AssemblyReference.cache
+D:\Vito Dumbović 2.d\programiranje\vjezba1\obj\Debug\vjezba1.csproj.CoreCompileInputs.cache
+D:\Vito Dumbović 2.d\programiranje\vjezba1\obj\Debug\vjezba1.exe
+D:\Vito Dumbović 2.d\programiranje\vjezba1\obj\Debug\vjezba1.pdb
